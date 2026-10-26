@@ -1,0 +1,27 @@
+{
+  "name": "lab-depend",
+  "version": "1.0.0",
+  "description": "Thư viện tối ưu hóa các phép toán đại số cho sinh viên kỹ nghệ phần mềm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanchuc123/lab-depend.git"
+  },
+  "keywords": [],
+  "author": "Phan Long Chuc",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/phanchuc123/lab-depend/issues"
+  },
+  "homepage": "https://github.com/phanchuc123/lab-depend#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
